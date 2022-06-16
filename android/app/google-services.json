@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362462088754",
+    "project_id": "react-delivery-36a47",
+    "storage_bucket": "react-delivery-36a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362462088754:android:d6b777050be26ba8d0f62b",
+        "android_client_info": {
+          "package_name": "com.deliverymovilts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362462088754-ublnho3bljk02tqsbjchif0pdls6pjve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverymovilts",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "362462088754-isoqp6qebhieb1kj7fm3ga4rfmd6lmc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_1ODgX1GKivRTaJyhXUeletMcDBOOgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362462088754-isoqp6qebhieb1kj7fm3ga4rfmd6lmc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
