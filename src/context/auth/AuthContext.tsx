@@ -20,7 +20,7 @@ import {GoogleSignin} from 'react-native-google-signin';
 
 GoogleSignin.configure({
   webClientId:
-    '362462088754-isoqp6qebhieb1kj7fm3ga4rfmd6lmc2.apps.googleusercontent.com',
+  /** */,
   offlineAccess: true,
   forceConsentPrompt: true,
 });
